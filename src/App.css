@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  color: #6c757d;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.create-event {
+  width: 50%;
+  padding: 25px;
+  margin: 15px;
+}
+
+.events-tabel {
+  width: 50%;
+  padding: 25px;
+  margin: 15px;
+}
